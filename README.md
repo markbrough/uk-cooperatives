@@ -10,17 +10,24 @@ Licensed under the MIT License
 
 1. Create a virtualenv
 
-      cd uk-cooperatives
-      virtualenv ./pyenv
-      source ./pyenv/bin/activate
+    ```
+    cd uk-cooperatives
+    virtualenv ./pyenv
+    source ./pyenv/bin/activate
+    ```
 
 2. Install dependencies
 
-      pip install -r requirements.txt
+
+    ```
+    pip install -r requirements.txt
+    ```
 
 3. Run the scraper!
 
-      python scrape.py
+    ```
+    python scrape.py
+    ```
 
 ## Issues
 
